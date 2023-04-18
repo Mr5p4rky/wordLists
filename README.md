@@ -13,7 +13,7 @@ For convenience i have included also SecList taken from their original repositor
 Simply just `git clone` this repository and you're good to go!
 
 ```
-$ git clone https://github.com/badunit/kali-wordlists
+$ git clone https://github.com/Mr5p4rky/wordLists
 ```
 
 ---
